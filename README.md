@@ -51,6 +51,10 @@ Rozy, Tell me about yourself?
 **Helpful Answer:**
 I am Rozy Kumari, an AI/ML engineer with a strong background in mathematics and statistics. My expertise lies in solving complex problems across semiconductor manufacturing and research fields utilizing **NLP, Generative AI, and Optimization techniques**. Throughout my academic career, I have gained experience through **Internships, Research Work, GATE CS/IT exams**. I am particularly skilled in leveraging these technologies to solve intricate problems and innovate in real-world projects.
 
+<img width="1895" height="913" alt="image" src="https://github.com/user-attachments/assets/de2c9c15-1ca3-4210-a6eb-7c469fefc86d" />
+
+
+
 ---
 
 ## Dependencies
