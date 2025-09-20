@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)](https://pytorch.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-2AB8FF?logo=python&logoColor=white)](https://www.langchain.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-2AB8FF?logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
