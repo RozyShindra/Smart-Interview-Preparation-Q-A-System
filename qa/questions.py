@@ -18,3 +18,8 @@ def get_questions(interview_type):
             "What are your strengths and weaknesses?",
             "Why should we hire you?"
         ]
+
+
+# due to limited resources, I had to hardcode these questions 
+# - The idea was to ask the LLM itself to generate the question according to the interview, 
+# and answer it based on the resources provided
